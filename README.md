@@ -8,17 +8,17 @@ Simple lex chatbot for customer to order pizza
     - Create blank bot
     - Enter Bot name
     - Under IAM pERMISSIONS
-        - SELECT CREATE AROLE WITH amazon lex
+        - SELECT CREATE A ROLE WITH amazon lex
     - Under Children’s Online Privacy Protection Act (COPPA)
         - Choose No
     - Click Next
-    - Slect Language
-    - Coose Voice Interaction
+    - Select Language
+    - Choose Voice Interaction
     - Click Done
 
     - Intent: New Intent
         - Intent Details
-            - Enter "Order Pizza as Intent nae
+            - Enter "Order Pizza" as Intent name
         - Add Sample utterances (utterances, are what the user can use to start interaction with the chatbot)
             - Type an Utterance eg hello, hi
             - Click Add utterance
@@ -86,8 +86,8 @@ Simple lex chatbot for customer to order pizza
                 - scroll down to slot prompts
                 - click bot elicits information DROPDOWN
                 - cLICK more prompt options
-                - toggle previow
-                -click add
+                - toggle preview
+                - click add
                     -add card group
                     - update card
                         - enter title as "Available times" as placeholder

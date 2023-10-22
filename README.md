@@ -29,7 +29,6 @@ Simple lex chatbot for customer to order pizza
                 "Can I go ahead with your request?"
             - enter the follwing in the decline prompt:
                 "Okay, your request will not be submitted."
-        - 
         - Under Closing response
             - enter the message as: (response chatbot will give when the user starts interacting with their utterances)
                 Hello! Welcome to PizzaHouse. Would you like to order a pizza?
